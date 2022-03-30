@@ -9,6 +9,8 @@ metadata:
     - spring
     - web
     - tanzu
+    - dttapdemo
+    - acceelrator
   annotations:
     'backstage.io/kubernetes-label-selector': 'app.kubernetes.io/part-of=tapdemo'
 spec:
